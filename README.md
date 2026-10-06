@@ -52,8 +52,8 @@ I designed and built it end to end, and I run it in production on my own server.
 
 | | |
 |---|---|
-| **HEIG-VD**, Yverdon-les-Bains 🇨🇭 · 2024 – 2027 | Data Engineering *(in progress)* |
-| **École Supérieure Polytechnique de Dakar** 🇸🇳 · 2021 – 2024 | Bachelor's in Software Engineering & Information Systems |
+| **HEIG-VD**, Yverdon-les-Bains 🇨🇭 | Data Engineering (2024 – 2027) |
+| **École Supérieure Polytechnique de Dakar** 🇸🇳 | Bachelor's in Software Engineering & Information Systems (2021 – 2024) |
 
 ---
 
