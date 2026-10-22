@@ -30,6 +30,16 @@ Patients find a doctor and book online without phoning, and get automatic WhatsA
 
 ---
 
+## 📊 Data, cloud & ML projects (HEIG-VD)
+
+| Project | What I built |
+|---|---|
+| **AWS data lake pipeline** | Open-data ingestion into an S3 data lake (raw → curated) with Python and AWS Lambda; Glue catalog and Athena queries; Parquet partitioning cut the data scanned per query **from 9.32 GB to 4.46 MB** |
+| **Scalable cloud deployment** | App made scalable on AWS (load balancer, autoscaling, load tests); Kubernetes from Minikube to GKE; Terraform, Ansible and a GitLab CI/CD pipeline |
+| **Machine learning** | Data cleaning, imputation, outlier detection, text classification, PCA, rigorous model evaluation; regression and gradient descent implemented from scratch |
+
+---
+
 ## 🛠️ Skills
 
 **Languages**
