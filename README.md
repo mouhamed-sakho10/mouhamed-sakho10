@@ -18,7 +18,7 @@ I study **Data Engineering at HEIG-VD** (Switzerland) and hold a **Bachelor's in
 
 I like owning the whole chain: modeling the data, building the backend, deploying the infrastructure, then turning the data into dashboards and models.
 
-> 🎯 **Looking for an internship or a Bachelor thesis in a company (2027), then a first role in data engineering, data analysis or ML in Switzerland.**
+> 🎯 **Looking for an internship or a first role in data engineering, data analysis or ML in Switzerland.**
 
 ---
 
@@ -27,16 +27,6 @@ I like owning the whole chain: modeling the data, building the backend, deployin
 **A medical appointment booking platform for Senegal** · [sendoc.sn](https://sendoc.sn)
 
 Patients find a doctor and book online without phoning, and get automatic WhatsApp reminders before each appointment. I designed and built it on my own, with the help of Claude Code, and I run it in production on my own server.
-
----
-
-## 📊 Data, cloud & ML projects (HEIG-VD)
-
-| Project | What I built |
-|---|---|
-| **AWS data lake pipeline** | Open-data ingestion into an S3 data lake (raw → curated) with Python and AWS Lambda; Glue catalog and Athena queries; Parquet partitioning cut the data scanned per query **from 9.32 GB to 4.46 MB** |
-| **Scalable cloud deployment** | App made scalable on AWS (load balancer, autoscaling, load tests); Kubernetes from Minikube to GKE; Terraform, Ansible and a GitLab CI/CD pipeline |
-| **Machine learning** | Data cleaning, imputation, outlier detection, text classification, PCA, rigorous model evaluation; regression and gradient descent implemented from scratch · [APV_Labos](https://github.com/mouhamed-sakho10/APV_Labos) · [APN_labs](https://github.com/mouhamed-sakho10/APN_labs) |
 
 ---
 
@@ -144,8 +134,8 @@ Docker Compose · CI/CD · reverse proxy & TLS · Linux server administration ·
 ## 💼 Experience
 
 **Groupement Orange Service Sénégal**, Dakar
-- **Web Developer & Monitoring intern** (2024): built a web tool to supervise critical interfaces between the ERP and third-party systems
-- **Data Analyst intern** (2023): led the BI tool selection for the OneInsight project (Power BI, Qlik Sense, Tableau, Oracle Analytics), ETL and dashboards
+- **Web Developer & Monitoring intern** (05/2024-07/2024): built a web tool to supervise critical interfaces between the ERP and third-party systems
+- **Data Analyst intern** (05/2023-07/2023): led the BI tool selection for the OneInsight project (Power BI, Qlik Sense, Tableau, Oracle Analytics), ETL and dashboards
 
 ---
 
